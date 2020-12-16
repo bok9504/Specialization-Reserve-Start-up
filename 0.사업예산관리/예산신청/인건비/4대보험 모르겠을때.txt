@@ -11,3 +11,12 @@ https://www.kcomwel.or.kr/kcomwel/paym/insu/chek3.jsp
 산재보험료
 https://www.kcomwel.or.kr/kcomwel/paym/insu/chek1.jsp
 
+산재보험 "요율"
+-근로복지공단 고용산재보험 토탈서비스 - 사업장 총괄카드 조회
+
+
+
+90701 -정보처리 및 기타컴퓨터운용관련사업
+58222 -응용 소프트웨어 개발 및 공급업
+
+소프트웨어 개발-133 ??
