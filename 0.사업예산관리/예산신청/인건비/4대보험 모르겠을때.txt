@@ -12,7 +12,7 @@ https://www.kcomwel.or.kr/kcomwel/paym/insu/chek3.jsp
 https://www.kcomwel.or.kr/kcomwel/paym/insu/chek1.jsp
 
 산재보험 "요율"
--근로복지공단 고용산재보험 토탈서비스 - 사업장 총괄카드 조회
+-근로복지공단 고용산재보험 토탈서비스 - 사업장 총괄카드 조회/ 보험료정보 조회-사업장요율 조회
 
 
 
